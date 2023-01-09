@@ -1,0 +1,4 @@
+- :smile: Hi, I'm [@sfuentesbongenaar](https://github.com/sfuentesbongenaar)
+- :mortar_board: I'm studying Creative Technology at the University of Twente
+- :star2: I'm currently learning Python and Scala
+- :mailbox: Feel free to contact me via [s.fuentes.bongenaar@protonmail.com](mailto:s.fuentes.bongenaar@protonmail.com)
